@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-Causing a conflict
+Simple modification, bound to cause trouble
